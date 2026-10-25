@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.git/
+.pytest_cache/
+secrets/          # the seal must never enter the build context!
